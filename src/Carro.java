@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Carro{
     // variáveis ou propriedade ou atributos
     public String marca, modelo; // String é um tipo de dado do tipo classe
@@ -47,4 +48,7 @@ public class Carro{
                 "Velocidade: " + this.velocidade +
                 "Motor: " + this.motor;
     }
+=======
+public class Carro {
+>>>>>>> 2e710bcd8e7b24b233a7d712946d1031d1520fb4
 }

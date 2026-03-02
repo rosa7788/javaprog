@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/ClasseObjeto.iml" filepath="$PROJECT_DIR$/ClasseObjeto.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/javaprog.iml" filepath="$PROJECT_DIR$/javaprog.iml" />
+>>>>>>> 2e710bcd8e7b24b233a7d712946d1031d1520fb4
     </modules>
   </component>
 </project>
