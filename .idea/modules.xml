@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/ClasseObjeto.iml" filepath="$PROJECT_DIR$/ClasseObjeto.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/javaprog.iml" filepath="$PROJECT_DIR$/javaprog.iml" />
->>>>>>> 2e710bcd8e7b24b233a7d712946d1031d1520fb4
+      <module fileurl="file://$PROJECT_DIR$/classeobjeto/classeobjeto.iml" filepath="$PROJECT_DIR$/classeobjeto/classeobjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/encapsulamento.iml" filepath="$PROJECT_DIR$/encapsulamento/encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercices/exercices.iml" filepath="$PROJECT_DIR$/exercices/exercices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicesrevisao/exercicesrevisao.iml" filepath="$PROJECT_DIR$/exercicesrevisao/exercicesrevisao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/todoparte/todoparte.iml" filepath="$PROJECT_DIR$/todoparte/todoparte.iml" />
     </modules>
   </component>
 </project>
