@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/classeinterface/classeinterface.iml" filepath="$PROJECT_DIR$/classeinterface/classeinterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/classeobjeto/classeobjeto.iml" filepath="$PROJECT_DIR$/classeobjeto/classeobjeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/encapsulamento/encapsulamento.iml" filepath="$PROJECT_DIR$/encapsulamento/encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercices/exercices.iml" filepath="$PROJECT_DIR$/exercices/exercices.iml" />
